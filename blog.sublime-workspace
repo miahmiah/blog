@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"na",
+				"nav-bg"
+			],
+			[
+				"page",
+				"page-home"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"emoti",
+				"emoticons"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"owl",
+				"owl-slide"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"g",
+				"goTo"
+			],
+			[
+				"info",
+				"info-slides"
+			],
+			[
+				"spac",
+				"word-spacing"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"head",
+				"header-options"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"pr",
+				"Println"
+			],
+			[
+				"Sans",
+				"sans-serif"
+			],
+			[
+				"dashboar",
+				"dashboardHandler"
+			],
+			[
+				"stati",
+				"static_dir"
+			],
+			[
+				"N",
+				"Naomi"
+			],
+			[
+				"T",
+				"type"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Action",
+				"ActionEvent"
+			],
+			[
+				"bool",
+				"boolVar"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"move",
+				"movePromise"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"le",
+				"length-1"
+			],
+			[
+				"start",
+				"startAngle"
+			],
+			[
+				"end",
+				"endAngle"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"left",
+				"leftPages"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"righ",
+				"rightPages"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "title: Hello World\n---\nWelcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [trobuleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/tommy351/hexo/issues).\n\n## Quick Start\n\n### Create a new post\n\n``` bash\n$ hexo new \"My New Post\"\n```\n\nMore info: [Writing](http://hexo.io/docs/writing.html)\n\n### Run server\n\n``` bash\n$ hexo server\n```\n\nMore info: [Server](http://hexo.io/docs/server.html)\n\n### Generate static files\n\n``` bash\n$ hexo generate\n```\n\nMore info: [Generating](http://hexo.io/docs/generating.html)\n\n### Deploy to remote sites\n\n``` bash\n$ hexo deploy\n```\n\nMore info: [Deployment](http://hexo.io/docs/deployment.html)",
+			"file": "source/_posts/hello-world.md",
+			"file_size": 816,
+			"file_write_time": 130470465687163718,
+			"settings":
+			{
+				"buffer_size": 816,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/Taking-One-Step-Back.md",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2035,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/nodeworkspace/consti/bam.js",
+		"/C/nodeworkspace/consti/US vs Chong March 19., 1910.html",
+		"/C/Users/user/Downloads/app-bir/app-bir/index.html",
+		"/C/Users/user/Downloads/app-bir/app-bir/css/all.min.css",
+		"/C/Users/user/Downloads/app-bir/app-bir/js/all.min.js",
+		"/C/nodeworkspace/bir/app2/js/pagetransitions.js",
+		"/C/nodeworkspace/consti/style.css",
+		"/C/nodeworkspace/consti/juris2/juris/1901/aug/gr_12_1901.html",
+		"/C/nodeworkspace/consti/juris2/juris/1901/aug/gr_456_1901.html",
+		"/C/nodeworkspace/blog/_config.yml",
+		"/C/Users/user/Downloads/PC/index.html",
+		"/C/nodeworkspace/consti/crimlaw/cases/3. Soriano vs People March 19, 1951.html",
+		"/C/nodeworkspace/ticle.js/ticle.sublime-workspace",
+		"/C/nodeworkspace/ticle.js/ticle.js",
+		"/C/nodeworkspace/ticle.js/_ticles/#hello",
+		"/C/nodeworkspace/consti/juris/2014/mar/gr_163767_2014.html",
+		"/C/nodeworkspace/consti/juris/1901/aug/gr_17_1901.html",
+		"/C/nodeworkspace/consti/server.js",
+		"/C/nodeworkspace/consti/boom.js",
+		"/C/Users/user/Downloads/hellophaser/index.html",
+		"/C/nodeworkspace/consti/juris/1995/mar/gr_90185_1995.html",
+		"/C/miah/files/cowork/press release",
+		"/C/localhost/typejump/server.js",
+		"/C/localhost/typejump/css/styles.css",
+		"/C/localhost/typejump/css/onepage-scroll.css",
+		"/C/localhost/typejump/index.html",
+		"/C/nodeworkspace/consti/juris/1978/mar/gr_47771_1978.html",
+		"/C/nodeworkspace/consti/juris/1995/sep/gr_119976_1995.html",
+		"/C/nodeworkspace/consti/juris/1995/mar/gr_87235_1995.html",
+		"/C/nodeworkspace/consti/juris/1995/mar/gr_88298_99_1995.html",
+		"/C/nodeworkspace/consti/juris/1995/mar/gr_87163_1995.html",
+		"/C/nodeworkspace/consti/juris/1928/nov/gr_l-29147_1928.html",
+		"/C/nodeworkspace/consti/juris/1908/aug/gr_l-4317_1908.html",
+		"/C/nodeworkspace/consti/juris/1915/sep/gr_10606_1915.html",
+		"/C/nodeworkspace/consti/juris/1908/feb/gr_l-3471_1908.html",
+		"/C/nodeworkspace/consti/juris/1901/aug/gr_12_1901.html",
+		"/C/localhost/typejump/js/main.js",
+		"/C/nodeworkspace/consti/1987/MEMBERS OF THE CONSTITUTIONAL COMMISSION [CON COM] WHICH DRAFTED THE 1987 CONSTITUTION OF THE PHILIPPINES.html",
+		"/C/nodeworkspace/consti/1987/ARTICLE II.html",
+		"/C/nodeworkspace/consti/1987/ARTICLE XVIII.html",
+		"/C/nodeworkspace/consti/preamble.json",
+		"/C/nodeworkspace/consti/preamble.html",
+		"/C/nodeworkspace/consti/1987/PREAMBLE.html",
+		"/C/nodeworkspace/consti/package.json",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/nodeworkspace/up.spaces.ph/app/index.html",
+		"/C/nodeworkspace/bir/app2/css/component.css",
+		"/C/nodeworkspace/bir/app-demo/BIR-RFP.bat",
+		"/C/nodeworkspace/bir/app2/css/animations.css",
+		"/C/nodeworkspace/bir/app2/css/animate.css",
+		"/C/nodeworkspace/bir/app-ship/index.html",
+		"/C/nodeworkspace/bir/app2/index.html",
+		"/C/nodeworkspace/bir/app2/css/owl.transitions.css",
+		"/C/nodeworkspace/bir/app2/css/main.css",
+		"/C/nodeworkspace/bir/app-bir/css/table.css",
+		"/C/localhost/disposable-chat/firebase.json",
+		"/C/nodeworkspace/bir/app-bir/index.html",
+		"/C/localhost/disposable-chat/index.html",
+		"/C/nodeworkspace/bir/app-ship/js/all.js",
+		"/C/nodeworkspace/bir/app-demo/package.json",
+		"/C/nodeworkspace/bir/app-demo/index.html",
+		"/C/nodeworkspace/bir/app-demo/README.md",
+		"/C/nodeworkspace/bir/app-demo/js/all.min.js",
+		"/C/nodeworkspace/bir/app2/css/default.css",
+		"/C/nodeworkspace/bir/app2/css/owl.theme.css",
+		"/C/nodeworkspace/bir/app2/css/owl.carousel.css",
+		"/C/nodeworkspace/bir/app2/css/font-awesome.min.css",
+		"/C/goworkspace/dooflr/static/js/scripts.js",
+		"/C/goworkspace/dooflr/static/dashboard.html",
+		"/C/goworkspace/dooflr/app.yaml",
+		"/C/goworkspace/dooflr/sample.html",
+		"/C/goworkspace/dooflr/static/js/app.js",
+		"/C/boxes/nodejs-dev-box/Vagrantfile",
+		"/C/localhost/kinetic/js/script.js",
+		"/C/localhost/kinetic/index.html",
+		"/C/goworkspace/dooflr/static/db.html",
+		"/C/localhost/kinetic/wa",
+		"/C/goworkspace/dooflr/static/css/styles.css",
+		"/C/goworkspace/dooflr/static/js/lib/starter-kit-1.5.0/index.html",
+		"/C/nodeworkspace/js/script.js",
+		"/C/nodeworkspace/js/index.html",
+		"/C/nodeworkspace/js/test.js",
+		"/C/goworkspace/dooflr/static/css/dashboard.css",
+		"/C/localhost/up.spaces.ph/index.html",
+		"/C/goworkspace/dooflr/static/css/common.css",
+		"/C/xampp/htdocs/sample/index.html",
+		"/C/goworkspace/dooflr/dooflr.go",
+		"/C/nodeworkspace/bir/app2/js/app.js",
+		"/C/nodeworkspace/bir/app/index.html",
+		"/C/boxes/nodejs-dev-box/README.md",
+		"/C/nodeworkspace/bir/app/css/main.css",
+		"/C/nodeworkspace/bir/app/js/app.js",
+		"/C/nodeworkspace/bir/bespoke-fx-master/demo/demo.js",
+		"/C/nodeworkspace/bir/bespoke-fx-master/demo/index.html",
+		"/C/nodeworkspace/bir/PageTransitions/PageTransitions/README.md",
+		"/C/nodeworkspace/bir/PageTransitions/PageTransitions/css/component.css",
+		"/C/nodeworkspace/bir/app/package.json",
+		"/C/goworkspace/codejam14/src/miah/sample.in",
+		"/C/goworkspace/codejam14/src/miah/repeater.in",
+		"/C/goworkspace/codejam14/src/miah/sample.go",
+		"/C/goworkspace/codejam14/src/miah/c.go",
+		"/C/Users/user/Downloads/B-large (1).in",
+		"/C/goworkspace/codejam14/src/miah/lottery.out",
+		"/C/goworkspace/codejam14/src/miah/lottery.in",
+		"/C/Users/user/Downloads/B-small-attempt0 (1).in",
+		"/C/goworkspace/codejam14/src/miah/lottery.go",
+		"/C/Users/user/Downloads/guciek_1_1/b.go",
+		"/C/Users/user/Downloads/DeCowboy_3_1/d.go",
+		"/C/Users/user/Downloads/DeCowboy_2_1/c.go",
+		"/C/goworkspace/codejam14/src/miah/repeater.go",
+		"/C/goworkspace/codejam14/src/miah/1cb.go",
+		"/C/goworkspace/codejam14/src/miah/1ca.go",
+		"/C/goworkspace/codejam14/src/miah/1cb.in",
+		"/C/goworkspace/codejam14/src/miah/1ca.in",
+		"/C/goworkspace/codejam14/src/miah/a.go",
+		"/C/goworkspace/codejam14/src/miah/b.go",
+		"/C/xampp/htdocs/training/index.php",
+		"/C/Users/user/Downloads/Samples.java",
+		"/C/Users/user/Documents/code bin/java/Samples2.java",
+		"/C/Users/user/Downloads/SkullSarawayun.java",
+		"/C/Users/user/Documents/code bin/java/Frame1.java",
+		"/C/Users/user/Documents/code bin/java/ButtonDemo.java",
+		"/C/Users/user/Documents/code bin/java/Gui.java",
+		"/C/Users/user/Documents/code bin/java/Frame.java",
+		"/C/xampp/htdocs/ocd5/admin/system/album_create.php",
+		"/C/xampp/htdocs/h1red/resume2pdf/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\nodeworkspace\\consti\\juris",
+			"C:\\nodeworkspace\\bir\\app2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"multi",
+			"href='#home'",
+			"#home",
+			"home",
+			"#pt-m",
+			"$('#pt-m",
+			"$('#m",
+			"=(funct",
+			"=pageTr",
+			"pageTr",
+			"pageT",
+			"page",
+			"landing",
+			"<a",
+			"pre>",
+			"mkdirp",
+			"cirilo",
+			"118702",
+			"cirilo montejo",
+			"cirilo",
+			"comelec",
+			"cerilo roy",
+			"roy montejo",
+			"roy",
+			"cerilo",
+			"comelec",
+			"commision",
+			"comelec",
+			"comelece",
+			"montej",
+			"Montejo",
+			"created di",
+			"seed",
+			"console",
+			"consol",
+			"prev",
+			"res",
+			"req",
+			"//(.||\\w)*",
+			"//.*?",
+			"\\/\\/",
+			"body",
+			"slow",
+			"detect",
+			"step-ne",
+			"tabl",
+			"font",
+			"emoticons=\\[.*\\]",
+			"emoticons=\\[.*\\]\nemoticons=\\[",
+			"emoticons=\\[.*\\]\nemoticons=[",
+			"emoticons=\\[.*\\]\nemoticons\\=\\[.*\\]",
+			"emoticons=\\[.*\\]\nemoticons=\\[.*\\]",
+			"emoticons=\\[.*\\]",
+			"emoticons",
+			"fs",
+			"@notes",
+			"pt-page-[0-9] ",
+			"pt-page-2 ",
+			"pt-page-[0-9]\\s",
+			"/div class=.*>",
+			":fir",
+			"h1",
+			".owl-back",
+			".owl-next",
+			"container",
+			".info-slide",
+			".row",
+			"li",
+			"row",
+			"ol",
+			"TO AVAIL THE SERVICE",
+			".info-slide",
+			"23",
+			"href='#home' ",
+			"consol",
+			"&#xf009;",
+			"&#xf015;",
+			"<a href='#home' class='bg-red invert'>&#xf015;</a>",
+			"\n				<div class='o-header'>\n					<div class='o-header-wrapper'>\n						<img src=\"img/other-header.png\" alt=\"\" class=\"o-img\">\n					</div>\n				</div>",
+			"$currPage",
+			"$curPage",
+			"$curPge",
+			"showpage",
+			"goto",
+			"showPage",
+			"main",
+			"font-fam",
+			"font",
+			"next",
+			"goyo",
+			"nextPage(",
+			"animation",
+			"showpage",
+			"b>(.*)</b",
+			"blue'>(.*)</a",
+			"blue'>.*</a",
+			"blue''>(.*)</a",
+			"a href='#'",
+			"go",
+			"white",
+			"<div class='doof-item-footer'>\n						</div>",
+			"%;\n",
+			"tra",
+			"_",
+			"float32",
+			"print",
+			"Fscanf",
+			"Save",
+			"\n	private static JLabel label;\n	private static JTextField textfield;\n	public static void main(String args[]) {\n\n		Frame frame = new Frame();\n		frame.setSize(500,300);\n		frame.setVisible(true);\n		frame.setTitle(\"Yow!\");\n		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\n\n		panel = new JPanel();\n		panel.setLayout(null);\n		frame.setContentPane(panel);\n\n		button = new JButton(\"Ok\");\n\n		button.setSize(50, 50);\n		button.setLayout(null);\n		button.setLocation(100, 100);",
+			"addAct",
+			";\n",
+			"BufferedReader",
+			";\n",
+			"<li wa='(.*)'><a href='#'>(.*)</a></li>",
+			"<li wa='.*'><a href='#'>&#xf005;</a></li>",
+			"<li wa='1'><a href='#'>(.*)</a></li>",
+			"<li><a href='#' wa='(.*)'>",
+			"<li><a href='#' wa='1'>",
+			"><a href='#' ",
+			"zindex",
+			"foldWIdt",
+			"hovere",
+			"page",
+			"zindex",
+			"page = ",
+			"var page",
+			"page",
+			"flip.tar"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href='#landing'",
+			"blockquote>",
+			"",
+			" ",
+			"/div>",
+			".step-back",
+			".step-next",
+			"div class='row'",
+			"container",
+			"	<div class='vcent'>\n													<div class='row'>\n														<li>\n															RDO having jurisdiction over the place of office of the employer where such employee  is \nexpected to report for work.\n														</li>\n														<li>\n															For employees of large taxpayers and corporations included under the Taxpayer Account \nManagement  Program  (TAMP),  their  employers  shall  be  responsible  to  secure  the \nemployees' TIN through the use of e-REG System.\n														</li>\n													</div class='row'>\n\n												</div>\n											</div>\n											<div class='slide'>\n												<div class='vcent'>\n													<div class='row'>\n														<li>\n															Employers, other than LT or TAMP corporations, may secure the TIN of their employees, \neither through e-REG System or through the RDO having jurisdiction over the employer.\n														</li>\n														<li>\n															Employee  with  concurrent  multiple  employment  shall  secure  TIN  at  the  RDO  having \njurisdiction over his principal/main Employer.\n														</li>\n													</div class='row'>\n												</div>\n											</div>",
+			"class='slide'>\n												<div class='vcent'>\n													<div class='row'>\n														<li>\n															RDO having jurisdiction over the place of office of the employer where such employee  is \nexpected to report for work.\n														</li>\n														<li>\n															For employees of large taxpayers and corporations included under the Taxpayer Account \nManagement  Program  (TAMP),  their  employers  shall  be  responsible  to  secure  the \nemployees' TIN through the use of e-REG System.\n														</li>\n													</div class='row'>\n\n												</div>\n											</div>\n											<div class='slide'>\n												<div class='vcent'>\n													<div class='row'>\n														<li>\n															Employers, other than LT or TAMP corporations, may secure the TIN of their employees, \neither through e-REG System or through the RDO having jurisdiction over the employer.\n														</li>\n														<li>\n															Employee  with  concurrent  multiple  employment  shall  secure  TIN  at  the  RDO  having \njurisdiction over his principal/main Employer.\n														</li>\n													</div class='row'>\n												</div>",
+			"div class='row'",
+			" class='vcent'>\n													<ol>\n														<li>\n															RDO having jurisdiction over the place of office of the employer where such employee  is \nexpected to report for work.\n														</li>\n														<li>\n															For employees of large taxpayers and corporations included under the Taxpayer Account \nManagement  Program  (TAMP),  their  employers  shall  be  responsible  to  secure  the \nemployees' TIN through the use of e-REG System.\n														</li>\n													</ol>\n\n												</div>\n											</div>\n											<div class='slide'>\n												<div class='vcent'>\n													<ol>\n														<li>\n															Employers, other than LT or TAMP corporations, may secure the TIN of their employees, \neither through e-REG System or through the RDO having jurisdiction over the employer.\n														</li>\n														<li>\n															Employee  with  concurrent  multiple  employment  shall  secure  TIN  at  the  RDO  having \njurisdiction over his principal/main Employer.\n														</li>\n													</ol>",
+			"TO AVAIL OF THE SERVICE",
+			".info-slides",
+			"\n.bg-blue .info-slide-btn.active,\n.bg-blue .info-slide-btn:focus,\n.bg-blue .info-slide-btn:hover,\n.bg-blue .info-slide-btn:active {\n	color: #13357d;\n}",
+			"href='#home' data-anim='22' ",
+			"&#xf00a;",
+			"&#xf009;",
+			"<a href='#home' class='bg-red invert bg-gray'>&#xf015;</a>",
+			"\n				<div class='o-header'>\n					<div class='o-header-wrapper'>\n						<img src=\"img/other-header.png\" alt=\"\" class=\"o-img\">\n						<div class='header-options clearfix'>\n							<a href='#home' class='bg-red invert'>&#xf015;</a>\n						</div>\n					</div>",
+			"span><b>$1</b></span",
+			"blue'><b>$1</b></a",
+			"blue' ><b>$1</b></a",
+			"a href='#' class='button blue'",
+			"\n						<div class='doof-item-datetime'>\n							A minute ago\n						</div><div class='doof-item-footer'>\n						</div>",
+			"float64",
+			"Fscanln",
+			"Find",
+			"dd(lblSave);\n		getContentPane().add(txtSave);\n		getContentPane().add(btnSave);",
+			"add(lblSave);\n		getContentPane().add(txtSave);\n		getContentPane().add(btnSave);",
+			"<li>$2</li>",
+			"<li>$1</li>",
+			"<li wa='$1'><a href='#'>",
+			"<li wa='1'><a href='#'>",
+			" href='#' ><a",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/_posts/hello-world.md",
+					"settings":
+					{
+						"buffer_size": 816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/_posts/Taking-One-Step-Back.md",
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 2035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true
+}
